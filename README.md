@@ -43,7 +43,7 @@ The website is a Vite SPA. For Vercel, Vite static output and the `/api` functio
 
 ## Before going live
 
-- Confirm the public domain to use. The source proposal mentions `www.ayotechcom.com`, but the domain was not independently verified or configured here.
+- Confirm the public domain to use. The source proposal mentions `https://ayotechsolutions.vercel.app/`, but the domain was not independently verified or configured here.
 - Confirm the verified sender identity for Resend.
 - Review the service scope, privacy wording, maintenance terms and any required legal policies.
 - Run `npm run build` and test desktop/mobile layouts and both enquiry routes.
