@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/enquiry.ts": { "maxDuration": 10 }
+  }
+}
